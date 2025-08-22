@@ -1,6 +1,4 @@
-### Comprehensive documentation for my Newsletter API
-
-# Newsletter API Documentation
+# Comprehensive documentation for my Newsletter API
 
 A robust PHP-based Newsletter API built with MySQLi for managing email subscriptions. This API provides complete CRUD operations for newsletter management with a beautiful admin interface.
 
